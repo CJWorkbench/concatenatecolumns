@@ -23,5 +23,5 @@ class Importable:
 
         wf_module.set_ready(notify=False)
 
-        table[newcol] = table[cols].apply(lambda x: ' '.join(x), axis=1)
+        table[newcol] = table[cols].apply(lambda x: ' '.join([str(i) for i in x if str(i) != 'nan']), axis=1)
         return table
