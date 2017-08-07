@@ -1,0 +1,26 @@
+{
+  "name": "Concatenate columns",
+  "id_name": "concatenatecolumns",
+  "category" : "Wrangle",
+  "description": "Concatenates specific columns and creates a new column with the result.",
+  "icon": "wrangle",
+  "parameters": [
+    {
+      "name": "New Column",
+      "id_name" : "newcolumn",
+      "type": "string"
+    },
+    {
+      "name": "Concatenate the following columns ",
+      "id_name": "colselect",
+      "type": "custom",
+      "ui-only": true
+    },
+    {
+      "name": "Column Names",
+      "id_name": "colnames",
+      "type": "string",
+      "visible": true
+    }
+  ]
+}
