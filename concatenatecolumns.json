@@ -1,5 +1,5 @@
 {
-  "name": "Concatenate columns",
+  "name": "Concatenate Columns",
   "id_name": "concatenatecolumns",
   "category" : "Analyse",
   "description": "Concatenates specific columns and creates a new column with the result.",
