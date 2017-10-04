@@ -6,21 +6,15 @@
   "icon": "transform",
   "parameters": [
     {
-      "name": "New Column",
+      "name": "New column name",
       "id_name" : "newcolumn",
       "type": "string"
     },
     {
-      "name": "Concatenate the following columns ",
+      "name": "Concatenate following columns ",
       "id_name": "colselect",
       "type": "multicolumn",
       "ui-only": true
-    },
-    {
-      "name": "Column Names",
-      "id_name": "colnames",
-      "type": "string",
-      "visible": true
     }
   ]
 }
