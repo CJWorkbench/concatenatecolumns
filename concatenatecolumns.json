@@ -13,7 +13,7 @@
     {
       "name": "Concatenate the following columns ",
       "id_name": "colselect",
-      "type": "custom",
+      "type": "column",
       "ui-only": true
     },
     {
