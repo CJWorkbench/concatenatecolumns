@@ -20,7 +20,7 @@
          "name": "Column Names",
          "id_name": "colnames",
          "type": "string",
-         "visible": true
+         "visible": false
       }
   ]
 }
