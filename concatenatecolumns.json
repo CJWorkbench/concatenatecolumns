@@ -6,7 +6,7 @@
   "icon": "transform",
   "parameters": [
     {
-      "name": "New column name",
+      "name": "Name for Concatenated Column",
       "id_name" : "newcolumn",
       "type": "string",
       "default":"New column"
