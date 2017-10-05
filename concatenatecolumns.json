@@ -12,7 +12,7 @@
       "ui-only": true
     },
     {
-      "name": "Concatenated Column Name",
+      "name": "Concatenated column came",
       "id_name" : "newcolumn",
       "type": "string",
       "default":"New column"
