@@ -1,5 +1,5 @@
 {
-  "name": "Concatenate Columns",
+  "name": "Concatenate columns",
   "id_name": "concatenatecolumns",
   "category" : "Analyse",
   "description": "Concatenates specific columns and creates a new column with the result.",
@@ -8,7 +8,8 @@
     {
       "name": "New column name",
       "id_name" : "newcolumn",
-      "type": "string"
+      "type": "string",
+      "default":"New column"
     },
     {
       "name": "Concatenate following columns ",
