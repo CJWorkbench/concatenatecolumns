@@ -8,7 +8,7 @@
     {
       "name": "Concatenate following columns ",
       "id_name": "colselect",
-      "type": "multicolumn",
+      "type": "multicolumn"
     },
     {
       "name": "Concatenated column came",
