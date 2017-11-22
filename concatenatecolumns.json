@@ -7,7 +7,7 @@
   "parameters": [
     {
       "name": "Concatenate following columns ",
-      "id_name": "colselect",
+      "id_name": "colnames",
       "type": "multicolumn"
     },
     {
