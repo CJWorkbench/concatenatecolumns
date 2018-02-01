@@ -4,6 +4,7 @@
   "category" : "Analyse",
   "description": "Concatenates specific columns and creates a new column with the result.",
   "icon": "transform",
+  "help_url":"modules/analyse/concatenate-columns",
   "parameters": [
     {
       "name": "Concatenate following columns ",
