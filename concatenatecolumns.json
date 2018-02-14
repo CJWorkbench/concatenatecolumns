@@ -1,5 +1,5 @@
 {
-  "name": "Concatenate columns",
+  "name": "Merge columns",
   "id_name": "concatenatecolumns",
   "category" : "Prepare",
   "description": "Concatenates specific columns and creates a new column with the result.",
