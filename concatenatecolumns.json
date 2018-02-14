@@ -12,7 +12,7 @@
       "type": "multicolumn"
     },
     {
-      "name": "Concatenated column came",
+      "name": "New column name",
       "id_name" : "newcolumn",
       "type": "string",
       "default":"New column"
