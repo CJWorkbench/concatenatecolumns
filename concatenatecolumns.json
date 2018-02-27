@@ -4,7 +4,7 @@
   "category" : "Prepare",
   "description": "Concatenates specific columns and creates a new column with the result.",
   "icon": "transform",
-  "help_url":"modules/analyse/concatenate-columns",
+  "help_url":"modules/prepare/concatenate-columns",
   "parameters": [
     {
       "name": "Concatenate following columns ",
