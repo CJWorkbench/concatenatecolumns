@@ -3,7 +3,7 @@
   "id_name": "concatenatecolumns",
   "category" : "Clean",
   "description": "Concatenates specific columns and creates a new column with the result.",
-  "icon": "transform",
+  "icon": "merge",
   "help_url":"modules/clean/concatenate-columns",
   "parameters": [
     {
